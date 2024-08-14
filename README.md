@@ -1,5 +1,5 @@
 # Power-BI
-This repo contain the visualization  of different datasets using Power BI.
+This repository contain the visualization  of sales dataset using Power BI.
 
 Project Name: SuperStore_Sales Analysis.
 
