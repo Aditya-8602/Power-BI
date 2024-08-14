@@ -3,7 +3,7 @@ This repo contain the visualization  of different datasets using Power BI.
 
 Project Name: SuperStore_Sales Analysis.
 
-###Clustered bar chart:
+### Clustered bar chart:
 
 Sales by category:
 y-axis: category-office supplies, technology, furniture
@@ -17,7 +17,7 @@ Sales by ship mode:
 y-axis: ship mode-standard class, second class, first class, same day
 x-axis: sum of sales
 
-###Donut chart:
+### Donut chart:
 
 Payment segment:
 legend: payment mode-cards, online, COD
@@ -27,7 +27,7 @@ Customer segment:
 legend: segment-home office, corporate, consumer 
 values: sum of sales
 
-###Stacked area chart:
+### Stacked area chart:
 
 Sales year on year:
 x-axis: order date
@@ -37,7 +37,7 @@ Profit year on year:
 x-axis: order date
 y-axis: sum of profit
 
-###Card:
+### Card:
 
 Sales:
 data: sum of sales
@@ -49,10 +49,10 @@ Avg Ship Days:
 data: avg delivery day
 (create new column of delivery day, avg filter)
 
-###Slicer:
+### Slicer:
 field: region
 
-###Map:
+### Map:
 
 Sum of sales by state:
 location: state
